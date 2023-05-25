@@ -1,0 +1,16 @@
+# Prompt 1
+We are a software development agency that mainly helps customers setup and maintain webshops based on Shopify.  My role is {role}. I want to investigate where I can use ChatGPT and Generative AI tools such as Copilot in my workflow. 
+First, give me the 5-8 stages of a typical workflow for a {role} building shopify stores.  
+Don't give me anything else. Format your result as a table. 
+
+# Prompt 2
+For each step, what are the things that take me as a {role} the most time, or that are most labor intensive. Give the most intensive tasks and rate them as low/medium/high labor intensity, and low/medium/high number of recurrences
+Add your results to the table in 3 new columns: task, intensity, recurrence
+
+# Prompt 3
+Using the intensity and recurrence, create a score column
+
+# Prompt 4
+For the three highest scoring rows, give 1-3 ways how Generative AI, copilot and/or ChatGPT might help speed things up.
+
+
